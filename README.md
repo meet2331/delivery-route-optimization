@@ -1,6 +1,3 @@
-# delivery-route-optimization
-Mixed-integer linear program for delivery route optimization using PuLP, minimizing operating costs across a courier network serving Bonn postal districts
-
 # Bonn Delivery Route Optimization
 
 Mixed-integer linear program (MILP) to minimize daily operating costs for a courier network serving 15 postal districts in Bonn, Germany. Built with Python, PuLP, and Flask.
